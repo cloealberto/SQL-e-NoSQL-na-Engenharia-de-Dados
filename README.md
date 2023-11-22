@@ -1,4 +1,4 @@
-# O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
+## O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
 O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados.
 
 # O papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados.
@@ -9,13 +9,13 @@ O que devemos considerar na escolha entre um **banco de dados relacional (SQL)**
 Vamos relembrar um pouco sobre cada uma dessas tecnologias?
 
 
-# SQL
+## SQL
 
 **SQL** é a sigla, em inglês, para **“Structured Query Language”**, ou sem português, **“Linguagem de Consulta Estruturada”**. 
 É essa linguagem que utilizamos para de consultar informações em um banco de dados relacional, executando vários comandos para criar, alterar, gerenciar, consultar, inserir (entre outras) informações no seu banco de dados. 
 Bancos de dados SQL seguem uma modelagem relacional, com os dados sendo organizados  em tabelas. 
 
-# NoSQL
+## NoSQL
 
 **NoSQL** é a sigla em inglês para **"Not Only SQL"**, ou no inglês literal, **"Não Somente SQL"**,  é o termo utilizado para banco de dados não relacionais de alto desempenho, onde geralmente não é utilizado o SQL como linguagem de consulta dos dados. 
 O **NoSQL** foi criado para ter uma performance melhor e uma escalabilidade mais horizontal para suprir necessidades onde os bancos relacionais não são eficazes. 
