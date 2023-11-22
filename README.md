@@ -1,7 +1,7 @@
 ## O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
 O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados.
 
-# O papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados.
+## O papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados.
 
 Nesse **bootcamp DATABASE**, tivemos um breve introdução a respeito da utilização de banco de dados **NoSQL**. Aprendemos sobre a as diferenças e comparação de desempenho entre ele e o SQL, onde  a velocidade acaba sendo o fator mais importante na decisão de qual banco utilizar em nossa aplicação. Conhecemos muitas opções de bancos de dados NoSQL com diferentes funcionalidades que podem úteis **de acordo com o contexto**. 
 O que devemos considerar na escolha entre um **banco de dados relacional (SQL)** e um **não-relacional (NoSQL)**?
